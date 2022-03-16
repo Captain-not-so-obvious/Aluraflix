@@ -14,6 +14,4 @@ function listarFilmesNaTela(filme) {
   elementoListaFilmes.innerHTML =
     elementoListaFilmes.innerHTML + elementoFilmeFavorito;
 }
-// 1 - Criar um botão para remover um filme na tela.
-// 2 - Além de colocar a imagem do filme, também adicionar o nome por meio de outro input.
-// 3 - Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover algum filme.
+
